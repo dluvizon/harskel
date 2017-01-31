@@ -1,5 +1,9 @@
+# Ignore output files
 output
 *.mexa64
 *.swp
 *.swo
 *.bkp
+
+# Ignore html readme
+README.html

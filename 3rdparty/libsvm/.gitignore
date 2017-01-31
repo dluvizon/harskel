@@ -1,3 +1,10 @@
+# Programs
+svm-predict
+svm-scale
+svm-train
+
+# Binary files
 *.mexw64
 *.exe
 *.dll
+*.o

@@ -57,7 +57,6 @@ If this software is useful for you (or any part of it), please consider citing u
 @unpublished{Luvizon_2017,
 author = {Diogo C. Luvizon and Hedi Tabia and David Picard},
 title = {{Learning features combination for human action recognition from skeleton sequences}},
-booktitle = {Pattern Recognition Letters (to appear in)}
 year = {2017}
 }
 ```

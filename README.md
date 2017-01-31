@@ -1,8 +1,6 @@
-# HarSkel
+## HarSkel - Human Action Recognition from Skeleton joints
 
-## Human Action Recognition from Skeleton joints
-
-This software is provided as additional material for the paper:
+This software is provided as additional material for the following paper:
 > Learning features combination for human action recognition from skeleton sequences
 
 ![Overview](images/overview.png)
@@ -43,12 +41,14 @@ In order to reproduce the results reported in the paper, run the file [train_and
 
 By default, the software is setted up for the MSR Action 3D dataset. The terminal output should look like this:
 
-> \>\> train_and_eval
-> pca: reduce features size from 8970 to 512
-> Ep. 00000 | G 14867.1 | Eta 0 | N.Imp 26423 | Loss 30829.1 | Acc 83.2%
-> Ep. 00001 | G 3477.25 | Eta 4.10069e-05 | N.Imp 12206 | Loss 11583.4 | Acc 89.4%
-> Ep. 00002 | G 311.288 | Eta 0.000237151 | N.Imp 02924 | Loss 2456.4 | Acc 92.7%
-> ...
+```
+>> train_and_eval
+pca: reduce features size from 8970 to 512
+Ep. 00000 | G 14867.1 | Eta 0 | N.Imp 26423 | Loss 30829.1 | Acc 83.2%
+Ep. 00001 | G 3477.25 | Eta 4.10069e-05 | N.Imp 12206 | Loss 11583.4 | Acc 89.4%
+Ep. 00002 | G 311.288 | Eta 0.000237151 | N.Imp 02924 | Loss 2456.4 | Acc 92.7%
+...
+```
 
 ## Citing
 

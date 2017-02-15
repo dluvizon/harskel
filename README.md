@@ -54,11 +54,12 @@ Ep. 00002 | G 311.288 | Eta 0.000237151 | N.Imp 02924 | Loss 2456.4 | Acc 92.7%
 
 If this software is useful for you (or any part of it), please consider citing us:
 ```
-@unpublished{Luvizon_2017,
-author = {Diogo C. Luvizon and Hedi Tabia and David Picard},
-title = {{Learning features combination for human action recognition from skeleton sequences}},
-booktitle = {Pattern Recognition Letters (to appear)},
-year = {2017}
+@article{Luvizon_PRL_2017,
+  author = {Diogo C. Luvizon and Hedi Tabia and David Picard},
+  title = {{Learning features combination for human action recognition from skeleton sequences}},
+  journal = {Pattern Recognition Letters},
+  doi = {http://dx.doi.org/10.1016/j.patrec.2017.02.001},
+  year = {2017}
 }
 ```
 

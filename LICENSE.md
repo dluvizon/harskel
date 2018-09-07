@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2016-2017 Diogo Luvizon, Hedi Tabia, and David Picard
+Copyright (c) 2016-2018 Diogo Carbonera Luvizon, Hedi Tabia, and David Picard
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

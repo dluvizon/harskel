@@ -29,7 +29,7 @@ All the parameters and the dataset to be used are configured there.
 ## Datasets
 
 We provide pre-computed skeleton sequences for all the datasets supported:
-* [MSR Action 3D](http://research.microsoft.com/en-us/um/people/zliu/ActionRecoRsrc)
+* [MSR Action 3D](https://documents.uow.edu.au/~wanqing/MSRActionRecognitionDatasetsCodes%20-%20Zicheng.htm)
 * [UTKinect Action 3D](http://cvrc.ece.utexas.edu/KinectDatasets/HOJ3D.html)
 * [Florence 3D Actions](https://www.micc.unifi.it/resources/datasets/florence-3d-actions-dataset)
 
